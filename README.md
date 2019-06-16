@@ -4,7 +4,7 @@
 ### The code contains the following sections. 
 * Loading dataset - Code uploaded the data from the working Directory
 * Merge Dataset - Merges the Test & Training dataset
-* Create Tidy Dataset - Uses the required logic to merge the data sets. 
+* Create Tidy Dataset - Uses the required logic to clean up the dataset. 
 * Test - Unit test to confirm the code worked as expected
 
 ### Following are the main variable used
